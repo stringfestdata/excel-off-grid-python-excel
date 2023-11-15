@@ -1,4 +1,8 @@
 channels:
   - conda-forge
 dependencies:
-  - openpyxl  # This line adds openpyxl
+  - openpyxl 
+  - pandas
+  - seaborn
+  - matplotlib
+  - numpy
