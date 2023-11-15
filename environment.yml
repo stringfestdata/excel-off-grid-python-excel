@@ -1,4 +1,4 @@
 channels:
   - conda-forge
-  dependencies:
+dependencies:
   - openpyxl  # This line adds openpyxl
